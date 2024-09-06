@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\dlyaKyrsovoi\Calendar++\Calendar++\main.cpp(85,32): warning C4947: System::Net::Dns::GetHostByName: помечен как устаревший
+  D:\dlyaKyrsovoi\Calendar++\Calendar++\main.cpp(85,32):
+  Сообщение: "GetHostByName is obsoleted for this type, please use GetHostEntry instead. http://go.microsoft.com/fwlink/?linkid=14202"
+  
+  Auntif.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Calendar++.vcxproj -> D:\dlyaKyrsovoi\Calendar++\x64\Debug\Calendar++.exe

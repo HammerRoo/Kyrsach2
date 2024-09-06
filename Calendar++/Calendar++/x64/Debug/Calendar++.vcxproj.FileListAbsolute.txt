@@ -1,0 +1,5 @@
+D:\dlyaKyrsovoi\Calendar++\Calendar++\x64\Debug\Calendar++.vcxproj.AssemblyReference.cache
+D:\dlyaKyrsovoi\Calendar++\Calendar++\x64\Debug\Calendar.Auntif.resources
+D:\dlyaKyrsovoi\Calendar++\Calendar++\x64\Debug\Calendar.Regis.resources
+D:\dlyaKyrsovoi\Calendar++\Calendar++\x64\Debug\Calendar++.vcxproj.GenerateResource.cache
+D:\dlyaKyrsovoi\Calendar++\Calendar++\x64\Debug\Calendar.CalendarMain1.resources
